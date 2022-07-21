@@ -16,3 +16,4 @@ Cara Start & Install Project :
 10.buat database menggunakan my sql dengan nama article
 11.run front end dengan npm start
 12.run back-end dengan go run main.go
+
