@@ -4,8 +4,8 @@ DATABASE: MYSQL
 
 Cara Start & Install Project :
 
-1.Buka VS code
-2.Buka terminal dan git clone 
+1. Buka VS code
+2. Buka terminal dan git clone 
 3.Pengaturan Front-End :
 4.ketik cd front-end-test-sv
 5.npm install
